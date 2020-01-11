@@ -1,0 +1,40 @@
+body {
+	background-color: gray;
+	font-family: courier;
+	
+	
+}
+
+header {
+	
+	text-align: center;
+	
+}
+h1 {
+	
+	color: yellow;
+	
+}
+h2 {
+	
+  color: gray;	
+	
+}
+main {
+	
+ background-color: yellow;	
+	
+	
+	
+}
+.data {
+	
+	color: gray;
+	font-size: 24px;
+	
+}
+a {
+	
+	color: gray;
+	
+}
