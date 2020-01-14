@@ -1,0 +1,37 @@
+body {
+	background-color: gray;
+    font-family: courier
+}
+
+main {
+	background-color: yellow;
+	font-size: 24px;
+	color: gray;
+}
+h1 {
+	text-align: center;
+	color: yellow;
+	
+	
+}
+a:active {
+	
+	color: gray;
+
+}
+a:visited {
+	
+	color: red;
+	
+	
+}
+a {
+	color: gray;
+	
+	
+}
+p {
+	 text-align: center;
+	
+	
+}
