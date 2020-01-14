@@ -72,3 +72,9 @@ main {
  .fa {
   font-size: 50px;
  }
+a:active {
+    color: gray;
+}
+a:visited {
+    color: red;
+}
