@@ -33,8 +33,9 @@ main {
 	font-size: 24px;
 	
 }
-a {
-	
-	color: gray;
-	
+a:active {
+    color: gray;
+}
+a:visited {
+    color: red;
 }
